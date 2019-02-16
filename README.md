@@ -1,0 +1,1 @@
+# Rights_to_Post_Journal_Entry
