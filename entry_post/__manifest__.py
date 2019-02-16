@@ -1,6 +1,6 @@
 {
-    'name' : 'Entry Post',
-    'author' : 'iTechresources',
+    'name' : 'Journal Entry Post',
+    'author' : 'itech resources',
     'website' : 'www.itechresoureces.com',
     'description' : 'After validation inovice should be in Unposted state in Journal',
     'depends' : ['account', 'sale'],
