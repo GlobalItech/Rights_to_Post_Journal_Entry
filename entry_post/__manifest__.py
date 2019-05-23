@@ -1,5 +1,5 @@
 {
-    'name' : 'User Rights to post Journal Entry ',
+    'name' : 'User Rights to Post Journal Entry ',
     'author' : 'itech resources',
     'website' : 'www.itechresoureces.com',
     'description' : 'After validation inovice should be in Unposted state in Journal',
